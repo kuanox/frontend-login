@@ -30,7 +30,7 @@ La compilación está minimizada y los nombres de archivos incluyen los hashes.\
 
 Consulte la sección sobre [implementación] (https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
 
-### `npm ejecutar expulsar`
+### `npm run eject`
 
 **Nota: esta es una operación unidireccional. ¡Una vez que lo "expulsas", no podrás regresar!**
 
